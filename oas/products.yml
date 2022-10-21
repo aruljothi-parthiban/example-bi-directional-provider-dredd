@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: Product API
   description: Pactflow Product API demo
-  version: 1.0.1
+  version: 1.0.2
 servers:
 - url: https://virtserver.swaggerhub.com/aruljothi_parthiban/example-bi-directional-provider-dredd/1.0.0
   description: SwaggerHub API Auto Mocking
